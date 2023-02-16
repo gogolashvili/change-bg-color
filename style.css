@@ -1,0 +1,19 @@
+div {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  width: 400px;
+  height: 150px;
+  font-size: 100px;
+  color: aliceblue;
+  background-color: blue;
+  border-radius: 30px;
+}
+button:hover {
+  cursor: pointer;
+}
